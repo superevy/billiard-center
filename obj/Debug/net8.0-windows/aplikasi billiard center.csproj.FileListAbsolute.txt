@@ -1,0 +1,23 @@
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\aplikasi billiard center.exe
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\aplikasi billiard center.deps.json
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\aplikasi billiard center.runtimeconfig.json
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\aplikasi billiard center.dll
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\aplikasi billiard center.pdb
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.Form1.resources
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.Properties.Resources.resources
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.csproj.GenerateResource.cache
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.AssemblyInfoInputs.cache
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.AssemblyInfo.cs
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.csproj.CoreCompileInputs.cache
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.dll
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\refint\aplikasi billiard center.dll
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.pdb
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.genruntimeconfig.cache
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\ref\aplikasi billiard center.dll
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.csproj.AssemblyReference.cache
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi.64C6F506.Up2Date
+C:\Users\renno\source\repos\aplikasi billiard center\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.Form2.resources

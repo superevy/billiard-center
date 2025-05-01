@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRMeehBUjuo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\aplikasi billiard center.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renno\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\renno\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\renno\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
