@@ -1,4 +1,5 @@
-using Guna.UI2.WinForms;
+﻿using Guna.UI2.WinForms;
+
 
 namespace aplikasi_billiard_center
 {
@@ -11,7 +12,7 @@ namespace aplikasi_billiard_center
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -21,7 +22,9 @@ namespace aplikasi_billiard_center
 
         private void label3_Click(object sender, EventArgs e)
         {
-
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
         }
 
         private void button1_Paint(object sender, PaintEventArgs e)
@@ -31,7 +34,9 @@ namespace aplikasi_billiard_center
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Form2 form2 = new Form2();
+            form2.Show();
+            this.Hide(); 
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -48,5 +53,7 @@ namespace aplikasi_billiard_center
         {
 
         }
+        
+
     }
 }

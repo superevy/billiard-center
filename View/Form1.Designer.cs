@@ -44,7 +44,6 @@
             label5 = new Label();
             panel4 = new Panel();
             button3 = new Button();
-            button5 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
@@ -215,24 +214,11 @@
             button3.TabIndex = 6;
             button3.UseVisualStyleBackColor = false;
             // 
-            // button5
-            // 
-            button5.BackColor = Color.Green;
-            button5.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button5.ForeColor = SystemColors.Control;
-            button5.Location = new Point(608, 385);
-            button5.Name = "button5";
-            button5.Size = new Size(180, 52);
-            button5.TabIndex = 8;
-            button5.Text = "NEXT";
-            button5.UseVisualStyleBackColor = false;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button5);
             Controls.Add(panel2);
             Controls.Add(panel3);
             Controls.Add(panel4);
@@ -273,6 +259,5 @@
         private Label label6;
         private Label label5;
         private Label label4;
-        private Button button5;
     }
 }
