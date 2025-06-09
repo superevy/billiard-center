@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using aplikasi_billiard_center.Controllers;
 
 namespace aplikasi_billiard_center
 {
@@ -63,45 +64,21 @@ namespace aplikasi_billiard_center
 
             string meja = listBoxMeja.SelectedItem?.ToString() ?? "Meja 1";
             string jam = dateTimePicker1.Value.ToString("HH:mm");
-            int harga = durasi * 30000;
 
-            try
+            BookingController controller = new BookingController();
+            if (controller.SimpanBooking(editingId, meja, jam, durasi, out string errorMessage))
             {
-                conn.Open();
-                MySqlCommand cmd;
-
-                if (editingId.HasValue)
-                {
-                    string updateQuery = "UPDATE crud SET meja = @meja, jam = @jam, durasi = @durasi, harga = @harga WHERE id = @id";
-                    cmd = new MySqlCommand(updateQuery, conn);
-                    cmd.Parameters.AddWithValue("@id", editingId.Value);
-                }
-                else
-                {
-                    string insertQuery = "INSERT INTO crud (meja, jam, durasi, harga) VALUES (@meja, @jam, @durasi, @harga)";
-                    cmd = new MySqlCommand(insertQuery, conn);
-                }
-
-                cmd.Parameters.AddWithValue("@meja", meja);
-                cmd.Parameters.AddWithValue("@jam", jam);
-                cmd.Parameters.AddWithValue("@durasi", durasi);
-                cmd.Parameters.AddWithValue("@harga", harga);
-
-                cmd.ExecuteNonQuery();
-                conn.Close();
-
                 string message = editingId.HasValue ? "Data berhasil diperbarui!" : "Data berhasil disimpan!";
                 MessageBox.Show(message);
-
                 ClearForm();
                 editingId = null;
             }
-            catch (Exception ex)
+            else
             {
-                MessageBox.Show("Gagal menyimpan data: " + ex.Message);
-                conn.Close();
+                MessageBox.Show("Gagal menyimpan data: " + errorMessage);
             }
         }
+
 
         private void ClearForm()
         {

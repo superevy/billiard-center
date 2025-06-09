@@ -1,46 +1,30 @@
 ﻿using System;
 using System.Data;
 using System.Windows.Forms;
-using MySql.Data.MySqlClient;
+using aplikasi_billiard_center.Controllers;
 
 namespace aplikasi_billiard_center
 {
     public partial class Form3 : Form
     {
-        // Koneksi ke database
-        MySqlConnection conn = new MySqlConnection("server=localhost;user id=root;password=;database=billiarddb;");
+        private BookingController controller = new BookingController();
 
         public Form3()
         {
             InitializeComponent();
         }
 
-        // Saat form dimuat
         private void Form3_Load(object sender, EventArgs e)
         {
             LoadData();
         }
 
-        // Menampilkan data dari tabel crud ke DataGridView
         private void LoadData()
         {
-            try
-            {
-                conn.Open();
-                string query = "SELECT id, meja, jam, durasi, (durasi * 30000) AS harga FROM crud";
-                MySqlDataAdapter adapter = new MySqlDataAdapter(query, conn);
-                DataTable dt = new DataTable();
-                adapter.Fill(dt);
-                dataGridView1.DataSource = dt;
-                conn.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Gagal memuat data: " + ex.Message);
-            }
+            DataTable dt = controller.GetAllBookings();
+            dataGridView1.DataSource = dt;
         }
 
-        // Tombol Edit - membuka Form2 dengan data terpilih
         private void button2_Click(object sender, EventArgs e)
         {
             if (dataGridView1.CurrentRow != null)
@@ -99,23 +83,16 @@ namespace aplikasi_billiard_center
                 DialogResult result = MessageBox.Show("Yakin ingin menghapus data ini?", "Konfirmasi", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                 if (result == DialogResult.Yes)
                 {
-                    try
+                    int id = Convert.ToInt32(dataGridView1.CurrentRow.Cells["id"].Value);
+
+                    if (controller.DeleteBooking(id, out string error))
                     {
-                        int id = Convert.ToInt32(dataGridView1.CurrentRow.Cells["id"].Value);
-
-                        conn.Open();
-                        string query = "DELETE FROM crud WHERE id = @id";
-                        MySqlCommand cmd = new MySqlCommand(query, conn);
-                        cmd.Parameters.AddWithValue("@id", id);
-                        cmd.ExecuteNonQuery();
-                        conn.Close();
-
                         MessageBox.Show("Data berhasil dihapus!");
-                        LoadData(); // Refresh tabel
+                        LoadData();
                     }
-                    catch (Exception ex)
+                    else
                     {
-                        MessageBox.Show("Gagal menghapus data: " + ex.Message);
+                        MessageBox.Show("Gagal menghapus data: " + error);
                     }
                 }
             }
