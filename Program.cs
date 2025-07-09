@@ -1,3 +1,5 @@
+using aplikasi_billiard_center.View;
+
 namespace aplikasi_billiard_center
 {
     internal static class Program

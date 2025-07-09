@@ -89,7 +89,7 @@ namespace aplikasi_billiard_center
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
+            FormRiwayat form3 = new FormRiwayat();
             form3.Show();
             this.Hide();
         }

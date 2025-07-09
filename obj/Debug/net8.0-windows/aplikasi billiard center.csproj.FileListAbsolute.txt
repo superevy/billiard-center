@@ -45,7 +45,6 @@ C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\re
 C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.pdb
 C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi billiard center.genruntimeconfig.cache
 C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\ref\aplikasi billiard center.dll
-C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.Form3.resources
 C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
 C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
 C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
@@ -68,3 +67,10 @@ C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\ru
 C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.View.login.resources
+C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.View.regis.resources
+C:\Users\renno\source\repos\aplikasi billiard center\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.FormRiwayat.resources
+C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.View.PaymentForm.resources
+C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.View.Form3.resources
+C:\Users\renno\source\repos\aplikasi billiard center\obj\Debug\net8.0-windows\aplikasi_billiard_center.View.FormStatusMeja.resources

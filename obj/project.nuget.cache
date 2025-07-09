@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+vHgOehiEL8=",
+  "dgSpecHash": "McBnN2aY6BA=",
   "success": true,
   "projectFilePath": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\aplikasi billiard center.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\renno\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\renno\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\renno\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",
     "C:\\Users\\renno\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",

@@ -44,6 +44,7 @@
             label5 = new Label();
             panel4 = new Panel();
             button3 = new Button();
+            button5 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
@@ -120,6 +121,7 @@
             // 
             // panel2
             // 
+            panel2.Controls.Add(button5);
             panel2.Controls.Add(label6);
             panel2.Controls.Add(button4);
             panel2.Location = new Point(380, 296);
@@ -149,6 +151,7 @@
             button4.Size = new Size(69, 61);
             button4.TabIndex = 7;
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // panel3
             // 
@@ -158,6 +161,7 @@
             panel3.Name = "panel3";
             panel3.Size = new Size(122, 121);
             panel3.TabIndex = 5;
+            panel3.Paint += panel3_Paint;
             // 
             // label4
             // 
@@ -214,6 +218,18 @@
             button3.TabIndex = 6;
             button3.UseVisualStyleBackColor = false;
             // 
+            // button5
+            // 
+            button5.BackColor = Color.Green;
+            button5.BackgroundImage = Properties.Resources.status;
+            button5.BackgroundImageLayout = ImageLayout.Zoom;
+            button5.Location = new Point(27, 18);
+            button5.Name = "button5";
+            button5.Size = new Size(69, 61);
+            button5.TabIndex = 8;
+            button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -259,5 +275,6 @@
         private Label label6;
         private Label label5;
         private Label label4;
+        private Button button5;
     }
 }

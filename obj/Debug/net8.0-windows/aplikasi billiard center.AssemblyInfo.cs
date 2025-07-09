@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aplikasi billiard center")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d7d00d1fd9d2e23a63e02f7fdb2d934a29d57b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40485be11cac88dd14616b7884b37dba9fabb5a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("aplikasi billiard center")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aplikasi billiard center")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
