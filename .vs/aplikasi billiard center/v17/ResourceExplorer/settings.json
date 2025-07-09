@@ -2,7 +2,12 @@
   "ShowEmptyProjects": false,
   "SelectedGroups": [],
   "ExpandedProjects": [],
-  "ColumnOrder": [],
+  "ColumnOrder": [
+    "name",
+    "type",
+    "neutral-value",
+    "neutral-comment"
+  ],
   "VisibleColumnKeys": [
     "name",
     "neutral-value"

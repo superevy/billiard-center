@@ -24,8 +24,25 @@ namespace aplikasi_billiard_center
             DataTable dt = controller.GetAllBookings();
             dataGridView1.DataSource = dt;
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
+        }
 
-        private void button2_Click(object sender, EventArgs e)
+        // Kosongkan jika tidak diperlukan
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e) { }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e) { }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void button2_Click_1(object sender, EventArgs e)
         {
             if (dataGridView1.CurrentRow != null)
             {
@@ -51,32 +68,7 @@ namespace aplikasi_billiard_center
             }
         }
 
-        // Tombol Tambah - kembali ke Form2 untuk tambah data
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form2 form2 = new Form2();
-            form2.Show();
-            this.Hide();
-        }
-
-        // Kosongkan jika tidak diperlukan
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e) { }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e) { }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Form2 form2 = new Form2();
-            form2.Show();
-            this.Hide();
-        }
-
-        private void button3_Click_1(object sender, EventArgs e)
+        private void button3_Click_2(object sender, EventArgs e)
         {
             if (dataGridView1.CurrentRow != null)
             {
@@ -100,6 +92,13 @@ namespace aplikasi_billiard_center
             {
                 MessageBox.Show("Pilih baris yang ingin dihapus terlebih dahulu.");
             }
+        }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+            this.Hide();
         }
     }
 }

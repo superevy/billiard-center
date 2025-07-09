@@ -38,35 +38,48 @@ namespace aplikasi_billiard_center.View
             dataGridView1.AllowUserToAddRows = false;
             dataGridView1.RowHeadersVisible = false;
 
+            // Kolom yang ditampilkan
             dataGridView1.Columns.Add("meja", "Nomor Meja");
             dataGridView1.Columns.Add("status", "Status");
             dataGridView1.Columns.Add("jam", "Jam Mulai");
             dataGridView1.Columns.Add("selesai", "Jam Selesai");
-            dataGridView1.Columns.Add("durasi", "Durasi (menit)");
-            dataGridView1.Columns.Add("harga", "Harga");
-            dataGridView1.Columns.Add("customer", "Customer");
 
-            var list = _controller.GetAllStatusMeja();
+            var dataMeja = _controller.GetAllStatusMeja();
 
-            foreach (var meja in list)
+            // Daftar meja tetap
+            List<string> daftarMeja = new List<string> { "Meja 1", "Meja 2", "Meja 3", "Meja 4", "Meja 5" };
+
+            foreach (var nomorMeja in daftarMeja)
             {
-                string jamMulai = meja.Jam?.ToString(@"hh\:mm") ?? "-";
-                string jamSelesai = meja.Jam.HasValue && meja.Durasi.HasValue
-                    ? DateTime.Today.Add(meja.Jam.Value).AddMinutes(meja.Durasi.Value).ToString("HH:mm")
-                    : "-";
+                // Ambil booking terbaru untuk meja ini
+                var pemakaian = dataMeja
+                    .Where(m => m.NomorMeja == nomorMeja && m.Jam.HasValue && m.Durasi.HasValue)
+                    .OrderByDescending(m => m.Jam)
+                    .FirstOrDefault();
 
-                dataGridView1.Rows.Add(
-                    meja.NomorMeja,
-                    meja.Status,
-                    jamMulai,
-                    jamSelesai,
-                    meja.Durasi?.ToString() ?? "-",
-                    meja.Harga?.ToString("N0") ?? "-",
-                    meja.NamaCustomer
-                );
+                string status = "Available";
+                string jamMulai = "-";
+                string jamSelesai = "-";
 
+                if (pemakaian != null)
+                {
+                    var sekarang = DateTime.Now.TimeOfDay;
+                    var mulai = pemakaian.Jam.Value;
+                    var selesai = mulai.Add(TimeSpan.FromMinutes(pemakaian.Durasi.Value));
+
+                    if (sekarang >= mulai && sekarang < selesai)
+                    {
+                        status = "In Use";
+                        jamMulai = mulai.ToString(@"hh\:mm");
+                        jamSelesai = DateTime.Today.Add(mulai).AddMinutes(pemakaian.Durasi.Value).ToString("HH:mm");
+                    }
+                }
+
+                dataGridView1.Rows.Add(nomorMeja, status, jamMulai, jamSelesai);
+
+                // Warnai baris
                 var row = dataGridView1.Rows[dataGridView1.Rows.Count - 1];
-                row.DefaultCellStyle.BackColor = meja.Status == "Available" ? Color.LightGreen : Color.LightCoral;
+                row.DefaultCellStyle.BackColor = status == "Available" ? Color.LightGreen : Color.LightCoral;
             }
         }
 

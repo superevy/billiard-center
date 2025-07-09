@@ -1955,11 +1955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\aplikasi billiard center.csproj",
+      "projectUniqueName": "C:\\Users\\renno\\Source\\Repos\\aplikasi-billiard\\aplikasi billiard center.csproj",
       "projectName": "aplikasi billiard center",
-      "projectPath": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\aplikasi billiard center.csproj",
+      "projectPath": "C:\\Users\\renno\\Source\\Repos\\aplikasi-billiard\\aplikasi billiard center.csproj",
       "packagesPath": "C:\\Users\\renno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\obj\\",
+      "outputPath": "C:\\Users\\renno\\Source\\Repos\\aplikasi-billiard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

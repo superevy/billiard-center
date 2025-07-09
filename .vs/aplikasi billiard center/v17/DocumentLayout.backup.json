@@ -1,121 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\",
+  "WorkspaceRootPath": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\formstatusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\formstatusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formstatusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\formstatusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formstatusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\model\\statusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:model\\statusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\controllers\\statusmejacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\controllers\\statusmejacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:controllers\\statusmejacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\model\\statusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:model\\statusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\formriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\formriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\formriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\formriwayat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formriwayat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\formriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\formmandiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formmandiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\formmandiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formmandiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\formbri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formbri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\formbri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formbri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\formstatusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formstatusmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\formriwayat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\formriwayat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\view\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\view\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\view\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\view\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:view\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi billiard center\\aplikasi billiard center.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|c:\\users\\renno\\source\\repos\\aplikasi-billiard\\aplikasi billiard center.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D251C2A9-F60F-924D-5FF6-0146789EED61}|aplikasi billiard center.csproj|solutionrelative:aplikasi billiard center.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -126,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,24 +154,74 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMandiri.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormMandiri.cs",
+              "RelativeDocumentMoniker": "View\\FormMandiri.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormMandiri.cs",
+              "RelativeToolTip": "View\\FormMandiri.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:23:13.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMandiri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormMandiri.cs",
+              "RelativeDocumentMoniker": "View\\FormMandiri.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormMandiri.cs [Design]",
+              "RelativeToolTip": "View\\FormMandiri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:20:17.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormBRI.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormBRI.cs",
+              "RelativeDocumentMoniker": "View\\FormBRI.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormBRI.cs",
+              "RelativeToolTip": "View\\FormBRI.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:16:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormBRI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormBRI.cs",
+              "RelativeDocumentMoniker": "View\\FormBRI.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormBRI.cs [Design]",
+              "RelativeToolTip": "View\\FormBRI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:02:59.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormStatusMeja.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormStatusMeja.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormStatusMeja.cs",
               "RelativeDocumentMoniker": "View\\FormStatusMeja.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormStatusMeja.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormStatusMeja.cs",
               "RelativeToolTip": "View\\FormStatusMeja.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwFIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T16:03:12.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form3.cs",
               "RelativeDocumentMoniker": "View\\Form3.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form3.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form3.cs",
               "RelativeToolTip": "View\\Form3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,63 +230,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "View\\Form3.Designer.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form3.Designer.cs",
               "RelativeToolTip": "View\\Form3.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T15:54:45.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T15:54:45.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "StatusMejaController.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\StatusMejaController.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\StatusMejaController.cs",
               "RelativeDocumentMoniker": "Controllers\\StatusMejaController.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\StatusMejaController.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\StatusMejaController.cs",
               "RelativeToolTip": "Controllers\\StatusMejaController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T15:53:05.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "StatusMeja.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\StatusMeja.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\StatusMeja.cs",
               "RelativeDocumentMoniker": "Model\\StatusMeja.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\StatusMeja.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\StatusMeja.cs",
               "RelativeToolTip": "Model\\StatusMeja.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T15:44:38.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "PaymentForm.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\PaymentForm.cs",
               "RelativeDocumentMoniker": "View\\PaymentForm.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\PaymentForm.cs",
               "RelativeToolTip": "View\\PaymentForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wCcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T12:28:35.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\PaymentController.cs",
               "RelativeToolTip": "Controllers\\PaymentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +293,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\Payment.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\Payment.cs",
               "RelativeDocumentMoniker": "Model\\Payment.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\Payment.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\Payment.cs",
               "RelativeToolTip": "Model\\Payment.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,11 +305,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\Users.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\Users.cs",
               "RelativeDocumentMoniker": "Model\\Users.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\Users.cs",
               "RelativeToolTip": "Model\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,11 +317,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "Model\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\DatabaseContext.cs",
               "RelativeToolTip": "Model\\DatabaseContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA9wCcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,11 +329,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAwwFIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,11 +341,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "regis.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\regis.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\regis.cs",
               "RelativeDocumentMoniker": "View\\regis.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\regis.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\regis.cs",
               "RelativeToolTip": "View\\regis.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAowEkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,11 +354,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "login.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\login.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\login.cs",
               "RelativeDocumentMoniker": "View\\login.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\login.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\login.cs",
               "RelativeToolTip": "View\\login.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAwwEgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -302,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "FormRiwayat.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormRiwayat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormRiwayat.Designer.cs",
               "RelativeDocumentMoniker": "View\\FormRiwayat.Designer.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormRiwayat.Designer.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormRiwayat.Designer.cs",
               "RelativeToolTip": "View\\FormRiwayat.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Controllers\\BookingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,111 +392,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\Booking.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\Booking.cs",
               "RelativeDocumentMoniker": "Model\\Booking.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Model\\Booking.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Model\\Booking.cs",
               "RelativeToolTip": "Model\\Booking.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA7wF0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswFQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T14:21:03.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 5,
               "Title": "FormRiwayat.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormRiwayat.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormRiwayat.cs",
               "RelativeDocumentMoniker": "View\\FormRiwayat.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormRiwayat.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormRiwayat.cs",
               "RelativeToolTip": "View\\FormRiwayat.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwDgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwGQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T16:02:16.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "aplikasi billiard center",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\aplikasi billiard center.csproj",
+              "DocumentMoniker": "C:\\Users\\renno\\Source\\Repos\\aplikasi-billiard\\aplikasi billiard center.csproj",
               "RelativeDocumentMoniker": "aplikasi billiard center.csproj",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\aplikasi billiard center.csproj",
+              "ToolTip": "C:\\Users\\renno\\Source\\Repos\\aplikasi-billiard\\aplikasi billiard center.csproj",
               "RelativeToolTip": "aplikasi billiard center.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-05T16:10:47.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form1.cs",
               "RelativeDocumentMoniker": "View\\Form1.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form1.cs",
               "RelativeToolTip": "View\\Form1.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAQwEsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwFEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T04:50:25.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\Program.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA8wA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T04:46:17.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T04:46:17.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form2.cs",
               "RelativeDocumentMoniker": "View\\Form2.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form2.cs",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form2.cs",
               "RelativeToolTip": "View\\Form2.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T04:32:07.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "FormStatusMeja.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormStatusMeja.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormStatusMeja.cs",
               "RelativeDocumentMoniker": "View\\FormStatusMeja.cs",
               "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormStatusMeja.cs [Design]",
-              "RelativeToolTip": "View\\FormStatusMeja.cs [Design]",
+              "RelativeToolTip": "..\\aplikasi billiard center\\View\\FormStatusMeja.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T15:58:24.431Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-08T15:58:24.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form3.cs",
               "RelativeDocumentMoniker": "View\\Form3.cs",
               "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form3.cs [Design]",
-              "RelativeToolTip": "View\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\aplikasi billiard center\\View\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T15:43:21.053Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-08T15:43:21.053Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "PaymentForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\PaymentForm.cs",
               "RelativeDocumentMoniker": "View\\PaymentForm.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\PaymentForm.cs [Design]",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\PaymentForm.cs [Design]",
               "RelativeToolTip": "View\\PaymentForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T12:26:49.52Z",
@@ -439,33 +501,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "regis.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\regis.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\regis.cs",
               "RelativeDocumentMoniker": "View\\regis.cs",
               "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\regis.cs [Design]",
-              "RelativeToolTip": "View\\regis.cs [Design]",
+              "RelativeToolTip": "..\\aplikasi billiard center\\View\\regis.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T13:50:57.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\login.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\login.cs",
               "RelativeDocumentMoniker": "View\\login.cs",
               "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\login.cs [Design]",
-              "RelativeToolTip": "View\\login.cs [Design]",
+              "RelativeToolTip": "..\\aplikasi billiard center\\View\\login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T04:41:55.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form2.cs",
               "RelativeDocumentMoniker": "View\\Form2.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form2.cs [Design]",
               "RelativeToolTip": "View\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T04:31:49.062Z",
@@ -473,11 +535,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "FormRiwayat.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormRiwayat.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormRiwayat.cs",
               "RelativeDocumentMoniker": "View\\FormRiwayat.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\FormRiwayat.cs [Design]",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\FormRiwayat.cs [Design]",
               "RelativeToolTip": "View\\FormRiwayat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T11:39:40.744Z",
@@ -485,11 +547,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form1.cs",
               "RelativeDocumentMoniker": "View\\Form1.cs",
-              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi billiard center\\View\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\renno\\source\\repos\\aplikasi-billiard\\View\\Form1.cs [Design]",
               "RelativeToolTip": "View\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T04:50:16.678Z",

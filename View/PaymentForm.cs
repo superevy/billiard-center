@@ -30,12 +30,23 @@ namespace aplikasi_billiard_center.View
 
         private void btnBRI_Click(object sender, EventArgs e)
         {
-            
+            FormBRI formbri = new FormBRI();
+            formbri.Show();
+            this.Hide();
         }
 
         private void btnMandiri_Click(object sender, EventArgs e)
         {
+            FormMandiri formmandiri = new FormMandiri();
+            formmandiri.Show();
+            this.Hide();
+        }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
         }
     }
 }

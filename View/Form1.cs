@@ -75,5 +75,12 @@ namespace aplikasi_billiard_center
             formStatusMeja.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            PaymentForm formpayment = new PaymentForm();
+            formpayment.Show();
+            this.Hide();
+        }
     }
 }
